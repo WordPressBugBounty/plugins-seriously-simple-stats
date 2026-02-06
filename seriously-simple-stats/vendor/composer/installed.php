@@ -5,7 +5,7 @@
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '282c83c31edd16289fb502b733de5c5910ad7109',
+        'reference' => 'a2d9a0f0866fb2a960df06c2455de3a1b0c2e383',
         'name' => 'castos/seriously-simple-stats',
         'dev' => false,
     ),
@@ -16,7 +16,7 @@
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '282c83c31edd16289fb502b733de5c5910ad7109',
+            'reference' => 'a2d9a0f0866fb2a960df06c2455de3a1b0c2e383',
             'dev_requirement' => false,
         ),
         'jaybizzle/crawler-detect' => array(
